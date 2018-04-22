@@ -95,7 +95,7 @@ class LoginScreen extends Component {
                 toValue: 0
             }),
             Animated.timing(this.borderBottomWidth, {
-                duration: event.duration,
+                duration: duration,
                 toValue: 0
             })
 
